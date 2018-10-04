@@ -4,6 +4,7 @@ This is a one-day hands-on lab experience for bulding Cloud Native applications 
 Red Hat OpenShift Application Runtimes (Spring Boot, WildFly Swarm, Eclipse Vert.x and Node.js) 
 utilizing a microservices architecture.
 
+This lab experience took place at the Red Hat OpenShift conference on October 4, 2018.
 
 ## CoolStore Online Store App
 
