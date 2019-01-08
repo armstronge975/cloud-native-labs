@@ -1,5 +1,3 @@
-:girl
-
 # Cloud Native Roadshow Labs  [![Build Status](https://travis-ci.org/openshift-labs/cloud-native-labs.svg?branch=ocp-3.10)](https://travis-ci.org/openshift-labs/cloud-native-labs)
 
 This is a one-day hands-on lab experience for bulding Cloud Native applications using 
